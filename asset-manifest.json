@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/front-end-js-polkadot/static/js/main.e15e80b5.chunk.js",
-    "main.js.map": "/front-end-js-polkadot/static/js/main.e15e80b5.chunk.js.map",
+    "main.js": "/front-end-js-polkadot/static/js/main.598897cf.chunk.js",
+    "main.js.map": "/front-end-js-polkadot/static/js/main.598897cf.chunk.js.map",
     "runtime-main.js": "/front-end-js-polkadot/static/js/runtime-main.1277c085.js",
     "runtime-main.js.map": "/front-end-js-polkadot/static/js/runtime-main.1277c085.js.map",
     "static/css/2.81995e98.chunk.css": "/front-end-js-polkadot/static/css/2.81995e98.chunk.css",
     "static/js/2.a1431cde.chunk.js": "/front-end-js-polkadot/static/js/2.a1431cde.chunk.js",
     "static/js/2.a1431cde.chunk.js.map": "/front-end-js-polkadot/static/js/2.a1431cde.chunk.js.map",
     "index.html": "/front-end-js-polkadot/index.html",
-    "precache-manifest.be5c4f9f189cb9b6f8a99f629658c94f.js": "/front-end-js-polkadot/precache-manifest.be5c4f9f189cb9b6f8a99f629658c94f.js",
+    "precache-manifest.d33fde7ac0910305b0792c3ef2fbd5bc.js": "/front-end-js-polkadot/precache-manifest.d33fde7ac0910305b0792c3ef2fbd5bc.js",
     "service-worker.js": "/front-end-js-polkadot/service-worker.js",
     "static/css/2.81995e98.chunk.css.map": "/front-end-js-polkadot/static/css/2.81995e98.chunk.css.map",
     "static/js/2.a1431cde.chunk.js.LICENSE.txt": "/front-end-js-polkadot/static/js/2.a1431cde.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1277c085.js",
     "static/css/2.81995e98.chunk.css",
     "static/js/2.a1431cde.chunk.js",
-    "static/js/main.e15e80b5.chunk.js"
+    "static/js/main.598897cf.chunk.js"
   ]
 }

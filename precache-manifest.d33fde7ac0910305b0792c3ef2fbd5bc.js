@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aa711e1f731ff7dadde7d0f31cb9c0d",
+    "revision": "de4fb8d8a250f0c24c0752ad4dc9dced",
     "url": "/front-end-js-polkadot/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/front-end-js-polkadot/static/js/2.a1431cde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46c72506aa1caba9797c",
-    "url": "/front-end-js-polkadot/static/js/main.e15e80b5.chunk.js"
+    "revision": "43c34031843b5cb368e6",
+    "url": "/front-end-js-polkadot/static/js/main.598897cf.chunk.js"
   },
   {
     "revision": "65d5251be970092bc402",
