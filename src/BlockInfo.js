@@ -5,7 +5,7 @@ import { useSubstrate } from './substrate-lib';
 
 function Main () {
   const { api } = useSubstrate();
-  const [blockInfo, setBlockInfo] = useState(0);
+  const [blockInfo, setBlockInfo] = useState();
 
   useEffect(() => {
     const unsubscribeAll = null;
@@ -14,7 +14,6 @@ function Main () {
       try {
         api.rpc.chain.subscribeNewHeads((head) => {
           setBlockInfo(head);
-          console.log(head);
         });
       } catch (e) {
         console.error(e);
