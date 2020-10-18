@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/front-end-js-polkadot/static/js/main.add229f3.chunk.js",
+    "main.js.map": "/front-end-js-polkadot/static/js/main.add229f3.chunk.js.map",
+    "runtime-main.js": "/front-end-js-polkadot/static/js/runtime-main.1277c085.js",
+    "runtime-main.js.map": "/front-end-js-polkadot/static/js/runtime-main.1277c085.js.map",
+    "static/css/2.81995e98.chunk.css": "/front-end-js-polkadot/static/css/2.81995e98.chunk.css",
+    "static/js/2.a1431cde.chunk.js": "/front-end-js-polkadot/static/js/2.a1431cde.chunk.js",
+    "static/js/2.a1431cde.chunk.js.map": "/front-end-js-polkadot/static/js/2.a1431cde.chunk.js.map",
+    "index.html": "/front-end-js-polkadot/index.html",
+    "precache-manifest.92286f7d1339f708a6edf6b5ad4e037c.js": "/front-end-js-polkadot/precache-manifest.92286f7d1339f708a6edf6b5ad4e037c.js",
+    "service-worker.js": "/front-end-js-polkadot/service-worker.js",
+    "static/css/2.81995e98.chunk.css.map": "/front-end-js-polkadot/static/css/2.81995e98.chunk.css.map",
+    "static/js/2.a1431cde.chunk.js.LICENSE.txt": "/front-end-js-polkadot/static/js/2.a1431cde.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/front-end-js-polkadot/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1277c085.js",
+    "static/css/2.81995e98.chunk.css",
+    "static/js/2.a1431cde.chunk.js",
+    "static/js/main.add229f3.chunk.js"
+  ]
+}
